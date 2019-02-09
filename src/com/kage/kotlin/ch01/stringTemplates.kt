@@ -1,4 +1,4 @@
-package com.kage.kotlin
+package com.kage.kotlin.ch01
 
 fun main(args: Array<String>) {
     val name = if (args.isNotEmpty()) args[0] else "Kotlin"

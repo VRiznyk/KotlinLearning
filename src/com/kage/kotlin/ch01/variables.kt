@@ -1,4 +1,4 @@
-package com.kage.kotlin
+package com.kage.kotlin.ch01
 
 val question = "The Ultimate Question of Life, the Universe, and Everything"
 
