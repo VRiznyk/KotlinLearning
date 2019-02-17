@@ -9,6 +9,13 @@ public class KtTest {
 
         System.out.println(StringUtils.getUnixLineSeparator());
 
+        System.out.println(new Test().hello);
+
         System.out.println(ExtentionsKt.lastChar("Kotlin"));
+    }
+
+
+    static class Test{
+        protected String hello = "Hello";
     }
 }
